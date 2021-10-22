@@ -1,6 +1,10 @@
 {
     "Name": "Laura",
     "Requests":  {
-        "Coffee"
+        "Coffee", "Jazz"
+    }
+    "Name": "Eddie",
+    "Requests":  {
+        "Coffz", "Jazzy"
     }
 }
